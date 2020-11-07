@@ -69,6 +69,10 @@ a:hover{
 .middle-container{
   margin: 100px 0;
 }
+.intro{
+  width: 50%;
+  margin: 50px auto;
+}
 .skill-img1 {
   float: left;
   width: 25%;
